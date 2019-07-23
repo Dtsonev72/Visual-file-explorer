@@ -1,0 +1,27 @@
+{
+  "name": "ElectronTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.6",
+    "fs": "0.0.1-security",
+    "get-folder-size": "^2.0.1",
+    "jquery": "^3.3.1",
+    "nodejs-fs-utils": "^1.1.2",
+    "path": "^0.12.7",
+    "phaser": "^3.16.2",
+    "phaser-runtime": "^3.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
