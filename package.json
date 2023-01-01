@@ -17,7 +17,7 @@
     "jquery": "^3.3.1",
     "nodejs-fs-utils": "^1.1.2",
     "path": "^0.12.7",
-    "phaser": "^3.16.2",
+    "phaser": "^3.55.2",
     "phaser-runtime": "^3.0.2"
   },
   "devDependencies": {
